@@ -117,7 +117,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Hail Street, Al Taawun, Riyadh",
-  phoneNo: "+966 569245562 ",
-  email: "raofahad949@gmail.com",
+  address: "Islamabad, Pakistan",
+  phoneNo: "03195814095 ",
+  email: "hirasharafat18@gmail.com",
 };
